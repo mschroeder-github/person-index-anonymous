@@ -1,0 +1,10 @@
+{
+  "personIndexSize": 100,
+  "messyDataSize": 300,
+  "lastnameAmbiguityGroupSize": 3,
+  "firstnameAmbiguityGroupSize": 3,
+  "doubleNameSize": 5,
+  "maxPersonsCount": 4,
+  "lastnameAmbiguityGroupCount": 3,
+  "firstnameAmbiguityGroupCount": 3
+}
