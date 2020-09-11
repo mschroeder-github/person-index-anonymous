@@ -5,6 +5,6 @@ If multiple persons are mentioned consecutively in very different ways, especial
 Once ambiguous names occur, associations to persons may not be inferred correctly.
 We define a person index as a structured table that distinctly catalogs individuals by their names.
 This code includes:
-* a procedure to generate ground truth data for future evaluations.
-* a baseline approach.
-* evaluation strategy to test the performance of the baseline and suggest further improvements.
+* a procedure to generate ground truth data for future evaluations,
+* a baseline approach,
+* an evaluation strategy to test the performance of the baseline and suggest further improvements.
